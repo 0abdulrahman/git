@@ -1,4 +1,4 @@
 const initialState = {
-  name: "Abdulrahman",
-  email: "abdulrahman@gmail.com",
+  name: "Mahmoud Sayed",
+  email: "MahmoudSayed@gmail.com",
 };

@@ -1,1 +1,1 @@
-const myNumber = 1;
+const myNumber = 2;

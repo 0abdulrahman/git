@@ -7,7 +7,7 @@
 // }
 
 async function getUsers(){
-       const reponse = await fetch("./json-placeholders.json");
+  const reponse = await fetch("./json-placeholders.json");
        const payload = await reponse.json();
        
        //logging users names and ids 

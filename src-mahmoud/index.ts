@@ -12,6 +12,6 @@ async function getUsers(){
        
        //logging users names and ids 
        payload.forEach(user => {console.log(`id:${user.id} , name:${user.name}`)});
-       
+
    return payload;
 }
